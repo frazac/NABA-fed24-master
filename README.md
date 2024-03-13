@@ -12,4 +12,4 @@ Welcome!
 * [Federica @GitHub](https://github.com/FedeVenza/)
 * [Hang @GitHub](https://github.com/Hang930/)
 * [Roberta @GitHub](https://github.com/RobertaRuggeri99/)
-* [Song @GitHub](https://github.com/he658834/he658834/)
+* [Song @GitHub](https://github.com/he658834/)
