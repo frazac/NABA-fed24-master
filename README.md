@@ -8,8 +8,8 @@ Welcome!
 
 ## Students repositories
 
-* [Daniela @GitHub](https://github.com/hdanielah)
-* [Federica @GitHub](https://github.com/FedeVenza)
-* [Hang @GitHub](https://github.com/Hang930/NABA-fed24-HangLiu.git)
-* [Roberta @GitHub](https://github.com/RobertaRuggeri99)
-* [Song @GitHub](https://github.com/he658834/he658834)
+* [Daniela @GitHub](https://github.com/hdanielah/)
+* [Federica @GitHub](https://github.com/FedeVenza/)
+* [Hang @GitHub](https://github.com/Hang930/)
+* [Roberta @GitHub](https://github.com/RobertaRuggeri99/)
+* [Song @GitHub](https://github.com/he658834/he658834/)
