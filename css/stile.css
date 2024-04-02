@@ -1,4 +1,7 @@
-body {background-color: thistle;}
+body {
+  background-color: thistle;
+  line-height: 1.7em;
+}
 ul {
   list-style-position: inside;
   margin: 10px 0;
@@ -39,3 +42,29 @@ body > ul > li > ul > li:first-child {
 .etichetta-data:hover {
   color: black;
 }
+a:link {
+  border: 1px solid blue;
+  height: 34px;
+  border-radius: 17px;
+  padding: 5px 17px;
+  /* display: inline-block; */
+  margin: 0 0.25em;
+  white-space: nowrap;
+  text-transform: uppercase;
+  font-size: 13px;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-decoration: none;
+}
+a:visited {
+  border-color: grey !important;
+  color: grey !important;
+}
+a:hover {
+  background-color: rgb(255,255,255);
+}
+a.referenza {}
+a.tutorial {
+  border-color: purple;
+  color: purple;
+}
+a.approfondimento {}
