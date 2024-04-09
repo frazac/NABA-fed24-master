@@ -96,6 +96,20 @@
             <li>img</li>
           </ul>
         </li>
+        <li>I font sono files. Quindi o li ha l'utente nel proprio terminale o li distribuisce il server. Ne consegue che se volessimo un font personalizzato o particolare dobbiamo distribuirlo. Come aggiungere font personalizzati? Ormai la soluzione tecnica usata da tutti è @font-face <a class="tutorial" target="_blank" href="https://www.w3schools.com/cssref/css3_pr_font-face_rule.php">Vedi →</a>. Ma come si fa? Tre alternative.<div class="etichetta-data">#Data05</div>
+          <ol>
+            <li>Abbiamo i file del font in locale già pronti per l'utilizzo sul web (sono webfont normalmente con formato Woff). Allora li mettiamo in una cartella e vi puntiamo con la regola @font-face. Nonostante le istruzioni che si possono trovare online è sufficiente soltanto il formato Woff (e non Woff2, per cui è necessario avere anche Woff per ragioni di compatibilità). <a target="_blank" href="https://www.w3schools.com/cssref/css3_pr_font-face_rule.php">Vedi →</a> <a target="_blank" href="https://support.fontspring.com/hc/en-us/articles/10244632607259-How-do-I-use-the-webfonts">Tutorial →</a></li>
+            <li>Abbiamo uno o più file font, la licenza è adatta per la condivisione su web, ma il file font non è in formato per i browser del web (ovvero woff). Si può usare Font Squirrel per convertire i tuoi font in un formato compatibile con il web. Dopodiché segui il punto 1. <a target="_blank" href="https://www.fontsquirrel.com/tools/webfont-generator">Vedi →</a> <a target="_blank" href="https://www.youtube.com/watch?v=kUXJApInDWA">Tutorial →</a></li>
+            <li>Utilizziamo un servizio online come Google oppure Adobe Font. In questo caso @font-face ma non lo vediamo nel nostro codice.
+              <ul>
+                <li>Con Google Font (gratuito): <a target="_blank" href="https://fonts.google.com/">Vedi →</a> <a class="tutorial" target="_blank" href="https://developers.google.com/fonts/docs/getting_started?hl=it">Tutorial →</a> <a target="_blank" class="approfondimento" href="https://fonts.google.com/knowledge">Approfondimento →</a></li>
+                <li>Con Adobe Font (a pagamento): <a target="_blank" href="https://helpx.adobe.com/it/fonts/get-started.html">Vedi →</a> <a class="tutorial" target="_blank" href="https://www.youtube.com/watch?v=R9O6BXCs1sY">Tutorial →</a></li>
+              </ul>
+  
+            </li>
+          </ol>
+        </li>  
+        <li>Box model: "All HTML elements can be considered as boxes." <a target="_blank" href="https://www.w3schools.com/css/css_boxmodel.asp">Vedi →</a> <a target="_blank" class="approfondimento" href="https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model">Approfondimento →</a><div class="etichetta-data">#Data06</div></li>
       </ul>
     </li>
     <li>css
@@ -137,21 +151,6 @@
         <li>border <div class="etichetta-data">#Data04</div>
         <li>background <div class="etichetta-data">#Data04</div>
       </ul>
-      <li>I font sono files. Quindi o li ha l'utente nel proprio terminale o li distribuisce il server. Ne consegue che se volessimo un font personalizzato o particolare dobbiamo distribuirlo. Come aggiungere font personalizzati? Ormai la soluzione tecnica usata da tutti è @font-face <a class="tutorial" target="_blank" href="https://www.w3schools.com/cssref/css3_pr_font-face_rule.php">Vedi →</a>. Ma come si fa? Tre alternative.
-        <div class="etichetta-data">#Data05</div>
-        <ol>
-          <li>Abbiamo i file del font in locale già pronti per l'utilizzo sul web (sono webfont normalmente con formato Woff). Allora li mettiamo in una cartella e vi puntiamo con la regola @font-face. Nonostante le istruzioni che si possono trovare online è sufficiente soltanto il formato Woff (e non Woff2, per cui è necessario avere anche Woff per ragioni di compatibilità). <a target="_blank" href="https://www.w3schools.com/cssref/css3_pr_font-face_rule.php">Vedi →</a> <a target="_blank" href="https://support.fontspring.com/hc/en-us/articles/10244632607259-How-do-I-use-the-webfonts">Tutorial →</a></li>
-          <li>Abbiamo uno o più file font, la licenza è adatta per la condivisione su web, ma il file font non è in formato per i browser del web (ovvero woff). Si può usare Font Squirrel per convertire i tuoi font in un formato compatibile con il web. Dopodiché segui il punto 1. <a target="_blank" href="https://www.fontsquirrel.com/tools/webfont-generator">Vedi →</a> <a target="_blank" href="https://www.youtube.com/watch?v=kUXJApInDWA">Tutorial →</a></li>
-          <li>Utilizziamo un servizio online come Google oppure Adobe Font. In questo caso @font-face ma non lo vediamo nel nostro codice.
-            <ul>
-              <li>Con Google Font (gratuito): <a target="_blank" href="https://fonts.google.com/">Vedi →</a> <a class="tutorial" target="_blank" href="https://developers.google.com/fonts/docs/getting_started?hl=it">Tutorial →</a> <a target="_blank" class="approfondimento" href="https://fonts.google.com/knowledge">Approfondimento →</a></li>
-              <li>Con Adobe Font (a pagamento): <a target="_blank" href="https://helpx.adobe.com/it/fonts/get-started.html">Vedi →</a> <a class="tutorial" target="_blank" href="https://www.youtube.com/watch?v=R9O6BXCs1sY">Tutorial →</a></li>
-            </ul>
-
-          </li>
-        </ol>
-      </li>
-
     </li>
     <li>scss/sass
       <ul>
