@@ -13,3 +13,6 @@ Welcome!
 * [Hang @GitHub](https://github.com/Hang930/)
 * [Roberta @GitHub](https://github.com/RobertaRuggeri99/)
 * [Song @GitHub](https://github.com/he658834/)
+* [Zhexi-ni @GitHub](https://github.com/floatingdreamzx/)
+* [Wei Jiayi @GitHub](https://github.com/naba-wei24/)
+
