@@ -15,4 +15,3 @@ Welcome!
 * [Song @GitHub](https://github.com/he658834/)
 * [Zhexi-ni @GitHub](https://github.com/floatingdreamzx/)
 * [Wei Jiayi @GitHub](https://github.com/naba-wei24/)
-
